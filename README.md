@@ -13,7 +13,8 @@ UI/UX Designer • Product Design Enthusiast • Creative Thinker
 -  UI/UX Design student at D.Y. Patil International University, Pune  
 -  Passionate about solving real-world problems through design  
 -  Interested in UX Research, Product Design & Interaction Design  
--  Currently learning more about design systems & user psychology  
+-  Currently learning more about design systems & user psychology
+-  Exploring the use of AI in UI/UX design to improve creativity, research & user experiences
 
 ---
 
@@ -43,9 +44,9 @@ UI/UX Designer • Product Design Enthusiast • Creative Thinker
 ### 🌐 Connect With Me
 
 - 💼 LinkedIn: [Linkedin-Link](https://www.linkedin.com/in/shruti-prajapati-986b19199/)
-- 🎨 Behance: [[Behance Portfolio](https://www.behance.net/shrutiprajapati2)
-- 🌍 Portfolio Website: [[My Portfolio](https://shrutiprajapati.framer.website/)
-- 📧 Email: [email](shrutiprajapati2712@gmail.com)  
+- 🎨 Behance: [Behance Portfolio Link](https://www.behance.net/shrutiprajapati2)
+- 🌍 Portfolio Website: [My Portfolio Link](https://shrutiprajapati.framer.website/)
+- 📧 Email: [email id](shrutiprajapati2712@gmail.com)  
 
 ---
 
