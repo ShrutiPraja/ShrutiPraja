@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ShrutiPraja/ShrutiPraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Hi, I'm Shruti 👋
 
-Here are some ideas to get you started:
+UI/UX Designer • Product Design Enthusiast • Creative Thinker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👩‍💻 About Me
+
+-  UI/UX Design student at D.Y. Patil International University, Pune  
+-  Passionate about solving real-world problems through design  
+-  Interested in UX Research, Product Design & Interaction Design  
+-  Currently learning more about design systems & user psychology  
+
+---
+
+### 🚀 Currently Working On
+
+✨ Kids Finance Learning App  
+📚 Smart Library Management App  
+🍽️ New feature concepts & UX case studies  
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,xd,notion" />
+</p>
+
+- Figma  
+- Adobe XD  
+- Photoshop  
+- Canva  
+- Miro  
+- Notion  
+
+---
+
+### 🌐 Connect With Me
+
+- 💼 LinkedIn: [Linkedin-Link](https://www.linkedin.com/in/shruti-prajapati-986b19199/)
+- 🎨 Behance: [[Behance Portfolio](https://www.behance.net/shrutiprajapati2)
+- 🌍 Portfolio Website: [[My Portfolio](https://shrutiprajapati.framer.website/)
+- 📧 Email: [email](shrutiprajapati2712@gmail.com)  
+
+---
+
+<div align="center">
+
+✨ *“Good design makes complex things feel simple.”* ✨
+
+</div>
